@@ -52,3 +52,21 @@ This project demonstrates a neural network built with TensorFlow and Keras to cl
 - Add dropout layers to reduce overfitting  
 - Visualize predictions and misclassified digits  
 - Deploy the model using Flask or Streamlit for interactive web app  
+
+---
+
+## 👨‍💻 Author
+
+**Dhairy Tilva**  
+📧 dhairyown@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/dhairy-tilva-ab35a71aa/) • [GitHub](https://github.com/DhairyTilva)
+
+---
+
+## 🏁 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+> If you found this project helpful or insightful, feel free to ⭐ star this repo and connect with me on GitHub!
